@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **dhyanvaradha2005@gmail.com** For Collaboration/Project or
 - 🔭 **I’m currently working on:** E-commerce website
 - 🌱 **I’m currently learning:** DSA
 - 👯 **I’m looking to collaborate on:** E-commerce website
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** My project regarding GOLD WEB APP
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dhyanvaradha2005@gmail.com
 - 😄 **Pronouns:** Mr Dhyan
