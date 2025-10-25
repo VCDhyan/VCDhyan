@@ -1,16 +1,16 @@
-# 💫 Hi 👋, VC Dhyan
+VC Dhyan
 **A passionate Full stack web developer**
 
 Email Me 👉 ✉️ **dhyanvaradha2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** E-commerce website
-- 🌱 **I’m currently learning:** DSA
-- 👯 **I’m looking to collaborate on:** E-commerce website
-- 🤔 **I’m looking for help with:** My project regarding GOLD WEB APP
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** dhyanvaradha2005@gmail.com
-- 😄 **Pronouns:** Mr Dhyan
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on: Gold web app** 
+- 🌱 **I’m currently learning: DSA** 
+- 👯 **I’m looking to collaborate on: Gold web app** 
+- 🤔 **I’m looking for help with: My project regarding GOLD WEB APP**
+- 💬 **Ask me about: Collaboration, Tech Support** 
+- 📫 **How to reach me: dhyanvaradha2005@gmail.com** 
+- 😄 **Pronouns: Mr VC Dhyan** 
+- ⚡ **Fun fact: I Love Tech and Tech Love Me** 
 
 <!-- Snake Game Repo View -->
 
