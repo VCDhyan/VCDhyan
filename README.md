@@ -4,10 +4,10 @@
 
 Email Me 👉 ✉️ **dhyanvaradha2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: Gold web app** 
-- 🌱 **I’m currently learning: DSA** 
-- 👯 **I’m looking to collaborate on: Gold web app** 
-- 🤔 **I’m looking for help with: My project regarding GOLD WEB APP**
+- 🔭 **I’m currently working on: Twety Open Source Project** 
+- 🌱 **I’m currently learning: DSA & DAA** 
+- 👯 **I’m looking to collaborate on: Creating Solutions for Real time problems** 
+- 🤔 **I’m looking for help with: Open source project**
 - 💬 **Ask me about: Collaboration, Tech Support** 
 - 📫 **How to reach me: dhyanvaradha2005@gmail.com** 
 - 😄 **Pronouns: Mr VC Dhyan** 
